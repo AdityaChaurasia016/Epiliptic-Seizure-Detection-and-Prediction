@@ -1,6 +1,6 @@
 class Config:
     # Serial Configuration
-    SERIAL_PORT = "COM5"
+    SERIAL_PORT = "COM7"
     BAUD_RATE = 115200
     
     # EEG Data Configuration
